@@ -41,19 +41,18 @@
 👉 [Watch the Video Demo](https://youtu.be/qoyp2dIhWEE)
 
 
-Or preview below:
-
-<video src="https://youtu.be/qoyp2dIhWEE" controls width="600"></video>
-
-
 ## ⚙️ Setup Instructions
 
 ### 🌩️ Run in Google Colab
 
-Click to launch:
+Run Videogen.ipynb first
+![image](https://github.com/user-attachments/assets/432e1976-3f31-47be-ac8b-cb23e4c689ea)
+Copy this Public URL you get after executing Videogen.ipynb
+![image](https://github.com/user-attachments/assets/d553699e-7441-4d47-91a8-031068eeaf9e)
+Paste the public URL as API URL in the RAG&Voice.ipynb's last cell
 
-- [Videogen.ipynb](LINK_TO_YOUR_COLAB)
-- [RAG&Voice.ipynb](LINK_TO_YOUR_COLAB)
+Now Run the RAG&Voice.ipynb notebook.
+NOTE THAT BOTH NOTEBOOKS SHOULD BE EXECUTING SO USE TWO COLAB IDS IF NOT ON PRO VERSION
 
 ### 🔧 Requirements
 
