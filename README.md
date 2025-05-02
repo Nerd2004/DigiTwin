@@ -38,12 +38,12 @@
 ---
 ## 🎥 Demo
 
-👉 [Watch the Video Demo](https://github.com/Nerd2004/DigiTwin/releases/download/v1.0/Demo.mp4)
+👉 [Watch the Video Demo](https://youtu.be/qoyp2dIhWEE)
 
 
 Or preview below:
 
-<video src="https://github.com/Nerd2004/DigiTwin/releases/download/v1.0/Demo.mp4" controls width="600"></video>
+<video src="https://youtu.be/qoyp2dIhWEE" controls width="600"></video>
 
 
 ## ⚙️ Setup Instructions
