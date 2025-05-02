@@ -36,6 +36,15 @@
 | `RAG&Voice.ipynb`      | Handles RAG-based response generation and XTTS-based audio cloning |
 
 ---
+## 🎥 Demo
+
+👉 [Watch the Video Demo](https://github.com/Nerd2004/DigiTwin/releases/download/v1.0/Demo.mp4)
+
+
+Or preview below:
+
+<video src="https://github.com/Nerd2004/DigiTwin/releases/download/v1.0/Demo.mp4" controls width="600"></video>
+
 
 ## ⚙️ Setup Instructions
 
